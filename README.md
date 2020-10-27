@@ -9,7 +9,7 @@ https://www.kaggle.com/c/stanford-covid-vaccine
 Octobre 2020
 
 <p align="center">
-    <img width="1000" height="400" src="./Data/kaggle.png">
+    <img width="1000" height="300" src="./Data/kaggle.png">
 </p>
 
 # Authors : 
