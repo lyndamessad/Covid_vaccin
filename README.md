@@ -11,7 +11,9 @@ Octobre 2020
 # Authors : 
 
 Hollier Laetitia : laetitia-hollier@outlook.fr
+
 Messad Dit Mahtal Lynda : lyndamessad96@gmail.com
+
 Rambaud Opale : opale.rambaud@gmail.com
 
 # Cloner le repertoire dans votre machine: 
