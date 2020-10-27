@@ -1,5 +1,20 @@
 # Covid_vaccin
-Projet Kaggle vaccin Covid_19
+
+Scolar projet for Master Bioinformatics at Univerité de Paris 
+
+Based on this Kaggle project : 
+
+https://www.kaggle.com/c/stanford-covid-vaccine
+
+Octobre 2020
+
+# Authors : 
+
+Hollier Laetitia : laetitia-hollier@outlook.fr
+
+Messad Dit Mahtal Lynda : lyndamessad96@gmail.com
+
+Rambaud Opale : opale.rambaud@gmail.com
 
 # Cloner le repertoire dans votre machine: 
 
