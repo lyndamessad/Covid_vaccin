@@ -8,6 +8,8 @@ https://www.kaggle.com/c/stanford-covid-vaccine
 
 Octobre 2020
 
+![picture](data/kaggle.png)
+
 # Authors : 
 
 Hollier Laetitia : laetitia-hollier@outlook.fr
