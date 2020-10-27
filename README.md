@@ -26,22 +26,22 @@ Python 3.7.3
 
 **Modules :** 
 
-json
+- json
 
-pandas
+- pandas
 
-numpy 
+- numpy 
 
-plotly
+- plotly
 
-tensorflow
+- tensorflow
 
-sklearn
+- sklearn
 
-keras 
+- keras 
 
 
-All available in the Yamal environment (available in this repository) 
+**All available in the Yamal environment (available in this repository)** 
 
 # Clone the repository on your computer: 
 
